@@ -10,7 +10,34 @@ Have
 
 ## Installation
 
->### Clone Repository
-  git clone 
->
+### Frontend
+  - Clone the ```App``` repository
+  - Install expo if needed
+
+  #### Prerequisites
+    
+  ##### EAS build
+  - Follow the steps : https://docs.expo.dev/eas-update/getting-started/
+  ##### Download Android Studio
+  - Install virtual device
+
+  #### Running the App
+  1. ```yarn```
+  2.  ```yarn expo start```
+  3.   switch to development mode by pressing ```s```
+  4.   run the emulator by pressing ```a```
+
+  ❗ If you don't see the app running on the emulator: <br>
+    press ```r``` to reload
+
+### Backend
+
+
+## Team Members
+- 2023 Fall CS392 Final Project
+
+|Youngjin Shin|Aleksander Sekulovski|Anabelle Brodsky|Alim Cemal Kura|Olivia Provonsil|
+|---|---|---|---|---|
+|[**@yjshin229**](https://github.com/yjshin229)|[**@aleks-s10**](https://github.com/aleks-s10)|[**@anabellebr22**](https://github.com/anabellebr22)|[**@smokethecookie**](https://github.com/smokethecookie)|[**@oliviaprovonsil**](https://github.com/oliviaprovonsil)|
+
 
