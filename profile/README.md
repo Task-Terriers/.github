@@ -29,8 +29,25 @@ Have
 
   ❗ If you don't see the app running on the emulator: <br>
     press ```r``` to reload
+  
+  ---
 
 ### Backend
+  - Clone the ```Backend``` repository
+  - Navigate to ```NancyFX``` folder
+
+#### Prerequisites
+  - Install [.NET 8.0](https://dotnet.microsoft.com/download)
+
+#### Run
+  1. Install NancyFX (NuGet package) ```dotnet add package Nancy --version 2.0.0```
+  2. Open `program.cs`.
+  3. Add Firebase Base Key and Secret Auth in lines 22-23. (provided upon request)
+  4. Setup the correct IpAddress: <br>
+       - Add your IP address in line 44 (and 47 for the console logs)
+       - ❗ `localhost` will not work with the Android Simulator, keep `1234` as the port.
+  6. Run the server: <br>
+       ```dotnet run```
 
 
 ## Team Members
