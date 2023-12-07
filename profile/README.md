@@ -1,7 +1,8 @@
 # TaskTerriers 🐕‍🦺
 
-Have you ever need hel
-Have 
+Have you ever needed a tutor for a specific class but weren't able to find one easily? Do you wish that you were able to take a breather and get some help?
+
+Finally presenting Task Terriers, an app which provides BU students with a platform to offer services to other students to make extra income and to seek services.
 
 ## Tech Stack
 
