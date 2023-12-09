@@ -12,6 +12,7 @@ Finally presenting Task Terriers, an app which provides BU students with a platf
 ## Installation
 
 ### Frontend
+  - Install ```yarn``` if you haven't already
   - Clone the ```App``` repository
   - Install expo if needed
 
